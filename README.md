@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tejeswara Nehru</h1>
 <h3 align="center">A passionate software engineer and full stack developer from Singapore</h3>
+🚀 Final-year Computer Engineering student at Nanyang Technological University, Singapore
+💻 Passionate about Full Stack Development, AI (Machine Learning), and Software Engineering
+🔧 Building innovative projects and pushing the boundaries of technology
+
+Welcome to my GitHub! Here you'll find a collection of my projects that showcase my skills and interests in full stack development, machine learning, and software engineering. I love creating efficient and scalable solutions, and I'm always eager to learn and collaborate with others in the tech community.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nrsteja&label=Profile%20views&color=0e75b6&style=flat" alt="nrsteja" /> </p>
 
