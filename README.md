@@ -11,7 +11,7 @@ Welcome to my GitHub! Here you'll find a collection of my projects that showcase
 
 - 🚀 Final-year Computer Engineering student at Nanyang Technological University, Singapore
 
-- 💻 Passionate about Full Stack Development, AI (Machine Learning), and Software Engineering
+- 💻 Passionate about **Full Stack Development, AI (Machine Learning), and Software Engineering**
 
 - 🔧 Building innovative projects and pushing the boundaries of technology
 
